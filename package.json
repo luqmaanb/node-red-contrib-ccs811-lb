@@ -1,0 +1,21 @@
+{
+  "name": "node-red-contrib-ccs811-lb",
+  "version": "0.0.1",
+  "description": "Node for ccs811 indoor air quality gas sensor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luqmaanb/node-red-contrib-ccs811-lb"
+  },
+  "node-red": {
+    "nodes": {
+      "ccs811": "ccs811Node.js"
+    }
+  },
+  "author": "Luqmaan Baboo",
+  "license": "MIT",
+  "homepage": "https://github.com/luqmaanb/node-red-contrib-ccs811-lb#readme",
+  "dependencies": {
+    "ccs811": "luqmaanb/node-js-ccs811-driver#main"
+  }
+}
