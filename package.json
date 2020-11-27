@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-ccs811-lb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node for ccs811 indoor air quality gas sensor",
   "main": "index.js",
   "repository": {
